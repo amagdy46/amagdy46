@@ -14,7 +14,7 @@
 
 </div>
 
-## I'm a Student at Ain Shams University - Mechatronics
+## I'm a Front End Developer
 
 ### Connect with me:
 
