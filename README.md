@@ -18,7 +18,6 @@
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with being a good and effectiive programer
 - 👨‍🎓 I'm a Student at The Faculty of Engineering Ain Shams University - Mechatronics.
 - ⚡ Fun fact: I love Automation !
 
