@@ -16,6 +16,12 @@
 
 ## I'm a Front End Developer
 
+- 🔭 I’m currently working on Personal Projects.
+- 🌱 I’m currently learning TypeScript
+- 🤔 I’m looking for help with being a good and effectiive programer
+- 👨‍🎓 I'm a Student at The Faculty of Engineering Ain Shams University - Mechatronics.
+- ⚡ Fun fact: I love Automation !
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdomagdy/)
