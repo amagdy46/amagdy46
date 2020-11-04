@@ -14,7 +14,7 @@
 
 </div>
 
-## I'm a Front End Developer
+## I'm a Software Engineer
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning TypeScript
