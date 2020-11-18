@@ -17,7 +17,7 @@
 ## I'm a Software Engineer
 
 - 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NestJS
 - 👨‍🎓 I'm a Student at The Faculty of Engineering Ain Shams University - Mechatronics.
 - ⚡ Fun fact: I love Automation !
 
