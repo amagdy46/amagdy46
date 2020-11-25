@@ -14,9 +14,9 @@
 
 </div>
 
-## I'm a Software Engineer
+## I'm a Front End Developer
 
-- 🔭 I’m currently working on Personal Projects.
+- 🔭 I’m currently working on Upwork.
 - 🌱 I’m currently learning NestJS
 - 👨‍🎓 I'm a Student at The Faculty of Engineering Ain Shams University - Mechatronics.
 - ⚡ Fun fact: I love Automation !
