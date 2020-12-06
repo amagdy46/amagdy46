@@ -14,7 +14,7 @@
 
 </div>
 
-## I'm a Front End Developer
+## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on Upwork.
 - 🌱 I’m currently learning NestJS
