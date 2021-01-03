@@ -17,7 +17,7 @@
 ## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on Upwork.
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning GraphQL
 - 👨‍🎓 I'm a Student at The Faculty of Engineering Ain Shams University - Mechatronics.
 - ⚡ Fun fact: I love Automation !
 
