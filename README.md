@@ -25,10 +25,10 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdomagdy/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amagdy46/)
 
 
-[<img align="left" alt="codeSTACKr | facebook" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> ](https://www.facebook.com/PokerFace046)
+[<img align="left" alt="codeSTACKr | facebook" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> ](https://www.facebook.com/profile.php?id=100087050978830)
 
 <br />
 <br />
