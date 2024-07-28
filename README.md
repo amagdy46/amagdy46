@@ -53,8 +53,8 @@
 
 <span style="display:block;text-align:center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AbdoMgdy&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoMgdy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=amagdy46&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amagdy46&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
 </div>
