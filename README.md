@@ -16,7 +16,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🔭 I’m currently working on Upwork.
+- 🔭 I’m currently a Senior SWE @ Prepit.
 - 🌱 I’m currently learning GraphQL.
 - ⚡ Fun fact: I love Automation !
 
