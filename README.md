@@ -65,9 +65,9 @@
 
 <div align="center">
   
-![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amagdy46&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amagdy46&theme=tokyonight&hide_border=true)
+
+![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amagdy46&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amagdy46&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
