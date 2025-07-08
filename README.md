@@ -1,9 +1,7 @@
 <div align="center">
   
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+My+GitHub+Profile!;Hello!+I'm+Abdulrahman+Magdy;Senior+Software+Engineer;Automation+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
-
 <img src="https://raw.githubusercontent.com/amagdy46/amagdy46/main/images/developer.gif" alt="Coding" width="400" />
-
 </div>
 
 ---
