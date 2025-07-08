@@ -7,6 +7,7 @@
 <img src="https://raw.githubusercontent.com/amagdy46/amagdy46/main/images/developer.gif" alt="Coding" width="400" />
 
 </div>
+
 ---
 
 ### 🚀 About Me
