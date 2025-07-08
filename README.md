@@ -1,11 +1,12 @@
 <div align="center">
   
-### 👋 Hello World! I'm Abdulrahman Magdy
+### 🔥 Welcome to My GitHub Profile!
 
-![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+I'm+Abdulrahman+Magdy;Senior+Software+Engineer;Automation+Enthusiast;Full-Stack+Developer;Tech+Innovator)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/amagdy46/amagdy46/main/images/developer.gif" alt="Coding" width="400" />
 
 </div>
-
 ---
 
 ### 🚀 About Me
