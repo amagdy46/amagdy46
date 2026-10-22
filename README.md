@@ -2,7 +2,7 @@
 
 I'm a software engineer, mostly on the backend and the infrastructure under it. I care about what happens after the code ships: whether the product works for the people using it and for the business behind it.
 
-I write about the tradeoffs behind that work, and about how coding agents are changing the way I build, at **[amagdy.dev](https://amagdy.dev)**.
+I'm especially interested in AI agents: building them, and building with them. I write about that and the tradeoffs behind my work at **[amagdy.dev](https://amagdy.dev)**.
 
 ### Open source
 
