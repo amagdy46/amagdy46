@@ -15,7 +15,7 @@ I'm especially interested in AI agents: building them, and building with them. I
 
 - [Running GitHub Actions on AWS Spot: what the discount asks of you](https://amagdy.dev/writing/running-github-actions-on-aws-spot)
 
-More at [amagdy.dev/writing](https://amagdy.dev/writing) · [RSS](https://amagdy.dev/rss.xml)
+More at [amagdy.dev/writing](https://amagdy.dev/writing)
 
 ### What I work with
 
