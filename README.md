@@ -4,6 +4,10 @@ I'm a software engineer, mostly on the backend and the infrastructure under it. 
 
 I'm especially interested in AI agents: building them, and building with them. I write about that and the tradeoffs behind my work at **[amagdy.dev](https://amagdy.dev)**.
 
+### What I'm building
+
+**[Zinko](https://github.com/amagdy46/zinko)**: an open-source tracking auditor for GA4, Google Ads, Meta Pixel, and consent mode. It loads a site's pages in a real browser under each consent choice, records every tracking request, and turns that into findings, each with the request that proves it and the fix. Built with TypeScript and Effect on Cloudflare Workers. v0.1 release candidate. [Case study](https://amagdy.dev/projects/zinko)
+
 ### Open source
 
 - **[efforge](https://github.com/amagdy46/efforge)**: a scaffolder for Effect apps on Cloudflare Workers, with the database, auth, and platform services already wired as Effect layers. `npm create efforge`
